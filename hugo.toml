@@ -1,0 +1,4 @@
+baseURL = 'https://matt-sec.com/'
+languageCode = 'en-us'
+title = 'Wise Beyond My Ears'
+theme = 'ananke'
