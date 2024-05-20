@@ -10,7 +10,7 @@ SectionPagesMenu = "main"
    LastName = "House"
    AboutPage = "<The relative or complete link to your about page>"
    Location = "Columbus, Ohio"
-   FlickrID = "branthebrave89"
+   FlickrID = "200715105@N02"
 
 [params]
    RSSSections = [ "Posts", "Microposts", "Photos" ]
