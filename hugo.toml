@@ -1,4 +1,22 @@
-baseURL = 'https://matt-sec.com/'
+baseURL = 'https://wisebeyondmyears.com/'
 languageCode = 'en-us'
 title = 'Wise Beyond My Ears'
-theme = 'ananke'
+theme = 'internet-weblog'
+SectionPagesMenu = "main"
+
+[author]
+   Handle = "@mrhouse89"
+   FirstName = "Matthew"
+   LastName = "House"
+   AboutPage = "<The relative or complete link to your about page>"
+   Location = "Columbus, Ohio"
+   FlickrID = "<Your Flickr ID>"
+
+[params]
+   RSSSections = [ "Posts", "Microposts", "Photos" ]
+
+[[menu.main]]
+   name = "Posts"
+   weight = 1
+   identifier = "posts"
+   url = "/posts/"
