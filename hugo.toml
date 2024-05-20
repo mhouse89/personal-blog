@@ -5,7 +5,7 @@ theme = 'internet-weblog'
 SectionPagesMenu = "main"
 
 [author]
-   Handle = "@mrhouse89"
+   Handle = "mrhouse89"
    FirstName = "Matthew"
    LastName = "House"
    AboutPage = "<The relative or complete link to your about page>"
